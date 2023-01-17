@@ -1,6 +1,8 @@
-# miot_flutter
+# Monitoring Living Room DHT11
 
-A new Flutter project.
+Flutter Project with Firebase
+NIM 5200411025
+Nama Khrisna Yudha Pratama
 
 ## Getting Started
 
